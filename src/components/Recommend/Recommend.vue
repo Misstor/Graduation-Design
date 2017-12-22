@@ -1,7 +1,17 @@
 <template>
-  <h1>r</h1>
+  <div>
+    <slider></slider>
+    <divider>热门推荐</divider>
+  </div>
 </template>
-<<script>
+
+<script>
+import { Divider } from 'vux'
+
 export default {
+  components: {
+    Divider
+  }
 }
 </script>
+
