@@ -79,4 +79,9 @@ body{
 .tab-swiper {
   background-color: s;
 }
+.vux-tab .vux-tab-item {
+  font-weight:600;
+  font-size:18px
+}
+
 </style>
