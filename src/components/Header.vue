@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-
+    <span>Logo</span>
   </div>
 </template>
 
